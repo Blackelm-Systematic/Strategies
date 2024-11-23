@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-'''
+"""
 This script provides a framework for constructing an equity investment strategy using stock market data. It includes:
 
 1. **Ticker Retrieval**:
@@ -17,7 +17,7 @@ This script provides a framework for constructing an equity investment strategy 
    - Calculates market cap-based weights for selected stocks.
 
 The output includes filtered tickers and their respective weights for portfolio construction or strategy testing.
-'''
+
 """
 
 ! pip install yfinance --upgrade --no-cache-dir
