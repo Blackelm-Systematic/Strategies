@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """
+Author: Sarah Hayat
+
 This script provides a framework for constructing an equity investment strategy using stock market data. It includes:
 
 1. **Ticker Retrieval**:
